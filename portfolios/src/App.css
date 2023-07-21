@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+* {
+  background-color: #2d3436;
+}
+#app-container {
+  background-color: #2d3436;
+  color: white;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -14,7 +20,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #2d3436;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
