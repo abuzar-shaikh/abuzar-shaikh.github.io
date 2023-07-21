@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Button, Center, Flex, Heading, Image } from "@chakra-ui/react";
+// import { Box, Button, Center, Flex, Heading, Image } from "@chakra-ui/react";
 
 export const Contacts = () => {
   const phoneNumber = "+91-8055299988";

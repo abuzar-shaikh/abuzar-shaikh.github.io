@@ -1,4 +1,4 @@
-import { Box, Button, Divider, Text } from "@chakra-ui/react";
+import { Box, Text } from "@chakra-ui/react";
 import React, { useState } from "react";
 import Web from "./images/Web1.jpg";
 
