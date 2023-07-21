@@ -6,12 +6,12 @@ import { TypedText } from "./TypedText";
 const handleclick = (e) => {
   e.preventDefault();
   window.open(
-    "https://drive.google.com/file/d/1TlQLrPNTk5kbpqLC_xgoMLgoyOyakfvE/view?usp=sharing",
+    "https://drive.google.com/file/d/1_kWLohE7-0vnNHUJlcVwZxVj3kbvtWch/view",
     "_blank"
   );
   let link = document.createElement("a");
   link.href =
-    "https://drive.google.com/uc?export=download&id=1TlQLrPNTk5kbpqLC_xgoMLgoyOyakfvE";
+    "https://drive.google.com/uc?export=download&id=1_kWLohE7-0vnNHUJlcVwZxVj3kbvtWch";
 
   link.download = "Abuzar-Shaikh-Resume";
   link.click();
@@ -21,13 +21,11 @@ export const Intro = () => {
     <Box className="intro_box">
       <Box className="intro_left" data-aos="fade-up" data-aos-duration="1000">
         <Box data-aos="fade-up" data-aos-duration="1000">
-          {" "}
           <Text fontSize={["20px", "20px", "30px", "3xl"]} fontWeight={"700"}>
             Hello, My Name Is
           </Text>
         </Box>
         <Box data-aos="fade-up" data-aos-duration="1000">
-          {" "}
           <Text
             fontSize={["30px", "10px", "40px", "6xl"]}
             fontWeight={"700"}

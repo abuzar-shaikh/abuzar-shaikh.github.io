@@ -9,7 +9,7 @@ const GithubCalendarPage = () => {
         {/* Loading stuff */}
         {/* <img  src="https://ghchart.rshah.org/abuzar-shaikh" alt="abusaeed's Github chart"/> */}
         <GitHubCalendar
-          username="skabusaeed1"
+          username="abuzar-shaikh"
           blockSize={20}
           blockMargin={1}
           colorScheme="light"

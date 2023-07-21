@@ -23,12 +23,12 @@ export const Nav = () => {
   const handleClick = (event) => {
     event.preventDefault();
     window.open(
-      "https://drive.google.com/file/d/1TlQLrPNTk5kbpqLC_xgoMLgoyOyakfvE/view?usp=sharing",
+      "https://drive.google.com/file/d/1_kWLohE7-0vnNHUJlcVwZxVj3kbvtWch/view",
       "_blank"
     );
     let link = document.createElement("a");
     link.href =
-      "https://drive.google.com/uc?export=download&id=1TlQLrPNTk5kbpqLC_xgoMLgoyOyakfvE";
+      "https://drive.google.com/uc?export=download&id=1_kWLohE7-0vnNHUJlcVwZxVj3kbvtWch";
 
     link.download = "Shaikh-Abusaeed-Resume";
     link.click();
