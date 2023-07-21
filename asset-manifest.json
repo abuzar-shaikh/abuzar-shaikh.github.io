@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.03a0848d.css",
-    "main.js": "/static/js/main.2a1e9a4b.js",
+    "main.js": "/static/js/main.2529e099.js",
     "static/media/mbayalang.png": "/static/media/mbayalang.c5e65ed85e66a1e9266f.png",
     "static/media/overstack.png": "/static/media/overstack.5689a7d1ccc9a1b9b4f5.png",
     "static/media/Trivago.png": "/static/media/Trivago.4d1dcb5ac8e403611074.png",
@@ -12,10 +12,10 @@
     "static/media/fro.jpg": "/static/media/fro.6c9401a3608822965688.jpg",
     "index.html": "/index.html",
     "main.03a0848d.css.map": "/static/css/main.03a0848d.css.map",
-    "main.2a1e9a4b.js.map": "/static/js/main.2a1e9a4b.js.map"
+    "main.2529e099.js.map": "/static/js/main.2529e099.js.map"
   },
   "entrypoints": [
     "static/css/main.03a0848d.css",
-    "static/js/main.2a1e9a4b.js"
+    "static/js/main.2529e099.js"
   ]
 }
